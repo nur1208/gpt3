@@ -1,1 +1,2 @@
-- {DONE} setting up react app 
+- {DONE} setting up react app
+- {DONE} creating Navbar component 
