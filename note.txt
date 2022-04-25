@@ -1,3 +1,4 @@
 - {DONE} setting up react app
 - {DONE} creating Navbar component 
 - {DONE} creating Header component 
+- {DONE} creating Brand component 
