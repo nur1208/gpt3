@@ -51,7 +51,7 @@ a {
   );
 }
 
-.gradient_text {
+.gradient__text {
   background: var(--gradient-text);
   background-clip: text;
   -webkit-background-clip: text;
@@ -62,7 +62,7 @@ a {
   margin: 4rem 6rem;
 }
 
-.section_padding {
+.section__padding {
   padding: 4rem 6rem;
 }
 
@@ -99,7 +99,7 @@ a {
     margin: 4rem;
   }
 
-  .section_padding {
+  .section__padding {
     padding: 4rem;
   }
 }
@@ -109,7 +109,7 @@ a {
     margin: 4rem 2rem;
   }
 
-  .section_padding {
+  .section__padding {
     padding: 4rem 2rem;
   }
 }
