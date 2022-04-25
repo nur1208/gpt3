@@ -45,6 +45,9 @@ export const Footer = () => {
 
       <div className="gpt3__footer-copyright">
         <p>@2021 GPT-3. All rights reserved.</p>
+        <p>
+          About Me: I'M Nur, My email is medo0o6665@gmail.com
+        </p>
       </div>
     </div>
   );
