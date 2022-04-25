@@ -18,7 +18,7 @@ export const Menu = () => (
       <a href="#home">Home</a>
     </p>
     <p>
-      <a href="#whatIsGpt3">What is GTP 3</a>
+      <a href="#wgpt3">What is GTP 3</a>
     </p>
     <p>
       <a href="#possibility">Open AI</a>

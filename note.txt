@@ -2,3 +2,5 @@
 - {DONE} creating Navbar component 
 - {DONE} creating Header component 
 - {DONE} creating Brand component 
+- {DONE} creating WhatGPT3 and Feature components
+- {DONE} Creating CTA and Feature components

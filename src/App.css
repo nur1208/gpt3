@@ -58,7 +58,7 @@ a {
   -webkit-text-fill-color: transparent;
 }
 
-.section_margin {
+.section__margin {
   margin: 4rem 6rem;
 }
 
@@ -95,7 +95,7 @@ a {
 }
 
 @media screen and (max-width: 700px) {
-  .section_margin {
+  .section__margin {
     margin: 4rem;
   }
 
@@ -105,7 +105,7 @@ a {
 }
 
 @media screen and (max-width: 550px) {
-  .section_margin {
+  .section__margin {
     margin: 4rem 2rem;
   }
 
