@@ -4,3 +4,4 @@
 - {DONE} creating Brand component 
 - {DONE} creating WhatGPT3 and Feature components
 - {DONE} Creating CTA and Feature components
+- {DONE} CREATING footer and DONE
